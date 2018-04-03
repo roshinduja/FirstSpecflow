@@ -1,0 +1,105 @@
+﻿2018-03-17T16:19:29.2922407+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-17T16:19:39.3212407+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-17T16:19:39.3222407+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+2018-03-17T16:19:39.3232407+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-03-17T16:19:48.4492407+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-17T16:19:48.4502407+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+2018-03-17T16:21:41.9106407+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Aviva\Aviva%20Final\Resume\Assessment%20-%20Final\Third%20Lot\Roshini%20Hinduja\Aviva%20Assessment_Roshini\com.Aviva.Assessment\TestResults\com.Aviva.Assessment_Default_2018-03-17T161939.log
+2018-03-17T16:21:41.9106407+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-17T16:30:52.2217656+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-17T16:30:52.2317676+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-17T16:30:52.2327678+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+2018-03-17T16:30:52.2337680+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-03-17T16:31:02.2787766+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-17T16:31:02.2807770+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+2018-03-17T16:31:55.3119290+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Aviva\Aviva%20Final\Resume\Assessment%20-%20Final\Third%20Lot\Roshini%20Hinduja\Aviva%20Assessment_Roshini\com.Aviva.Assessment\TestResults\com.Aviva.Assessment_Default_2018-03-17T163052.log
+2018-03-17T16:31:55.3275315+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-17T16:33:06.9598886+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-17T16:33:06.9778922+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-17T16:33:06.9778922+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+2018-03-17T16:33:06.9788924+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-03-17T16:33:16.9878938+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-17T16:33:16.9908944+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+2018-03-17T16:33:50.2301039+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Aviva\Aviva%20Final\Resume\Assessment%20-%20Final\Third%20Lot\Roshini%20Hinduja\Aviva%20Assessment_Roshini\com.Aviva.Assessment\TestResults\com.Aviva.Assessment_Default_2018-03-17T163306.log
+2018-03-17T16:33:50.2301039+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-17T17:17:37.5260296+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-17T17:17:37.6150296+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-17T17:17:37.6160296+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+2018-03-17T17:17:37.6170296+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-03-17T17:17:47.6880296+05:30;Thread#5;Info;Discovering target: Default
+2018-03-17T17:17:47.6910296+05:30;Thread#5;Info;Discovering tests from assembly: D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+Appdomain Disposed
+Test Suite Dump
+#0: com.Aviva.Assessment/Default - 
+#1: Default - 
+#2: com.Aviva.Assessment - 
+#3: Google search and printing data from the results - 
+#4: Search with valid data and print result, Aviva - TestAssembly:com.Aviva.Assessment/Feature:Google+search+and+printing+data+from+the+results/Scenario:Search+with+valid+data+and+print+result%2c+Aviva
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for com.Aviva.Assessment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\sg663051\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.7.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:T:Unable to connect to the remote server
+Thread#0:B:Given I launch Google homepage on the web browser
+Thread#0:T:Assertion successful, user is on Google Homepage
+Thread#0:T:done: AvivaTestStepsDefinition.GivenILaunchGoogleHomepageOnTheWebBrowser() (12.1s)
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmpDF49.jpg ]SCREENSHOT
+Thread#0:B:When I enter 'Aviva' in the searchbox
+Thread#0:T:Entered text is Aviva
+Thread#0:T:done: AvivaTestStepsDefinition.WhenIEnterInTheSearchbox("Aviva") (0.3s)
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmpE2A4.jpg ]SCREENSHOT
+Thread#0:B:And hit search button
+Thread#0:T:done: AvivaTestStepsDefinition.WhenHitSearchButton() (8.2s)
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmp439.jpg ]SCREENSHOT
+Thread#0:B:Then suitable results should be displayed
+Thread#0:T:Actual text is Aviva
+Thread#0:T:Aviva search results are displayed
+Thread#0:T:done: AvivaTestStepsDefinition.ThenSuitableResultsShouldBeDisplayed() (1.1s)
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmpA42.jpg ]SCREENSHOT
+Thread#0:B:And I should be able to display all links and print fifth link
+Thread#0:T:Results Obtained are:
+Thread#0:T:Aviva
+Thread#0:T:Aviva i-Life Term Insurance | Term Policy For Your Needs
+Thread#0:T:Aviva® i-Life Term Plan
+Thread#0:T:Aviva® Heart Care
+Thread#0:T:Aviva® i-Growth Insurance
+Thread#0:T:Aviva® i-Shield Insurance
+Thread#0:T:Aviva Life Insurance - Login
+Thread#0:T:Aviva UK (@AvivaUK) · Twitter
+Thread#0:T:Aviva Life Insurance Policies & Plans In India | Buy Online
+Thread#0:T:Aviva Life Insurance - Login
+Thread#0:T:Contact Us | Aviva India
+Thread#0:T:Aviva - Wikipedia
+Thread#0:T:Aviva plc - Group website - Aviva plc
+Thread#0:T:Aviva - Home | Facebook
+Thread#0:T:Aviva Investors
+Thread#0:T:Aviva India
+Thread#0:T:Aviva Canada
+Thread#0:T:5th Link: Aviva® i-Shield Insurance
+Thread#0:T:done: AvivaTestStepsDefinition.ThenIShouldBeAbleToDisplayAllLinksAndPrintFifthLink() (0.8s)
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmpEE5.jpg ]SCREENSHOT
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 43.4405 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1
+Succeeded: 1
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0

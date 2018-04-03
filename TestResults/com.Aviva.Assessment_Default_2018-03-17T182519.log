@@ -1,0 +1,109 @@
+﻿2018-03-17T16:19:29.2922407+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-17T16:19:39.3212407+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-17T16:19:39.3222407+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+2018-03-17T16:19:39.3232407+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-03-17T16:19:48.4492407+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-17T16:19:48.4502407+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+2018-03-17T16:21:41.9106407+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Aviva\Aviva%20Final\Resume\Assessment%20-%20Final\Third%20Lot\Roshini%20Hinduja\Aviva%20Assessment_Roshini\com.Aviva.Assessment\TestResults\com.Aviva.Assessment_Default_2018-03-17T161939.log
+2018-03-17T16:21:41.9106407+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-17T16:30:52.2217656+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-17T16:30:52.2317676+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-17T16:30:52.2327678+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+2018-03-17T16:30:52.2337680+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-03-17T16:31:02.2787766+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-17T16:31:02.2807770+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+2018-03-17T16:31:55.3119290+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Aviva\Aviva%20Final\Resume\Assessment%20-%20Final\Third%20Lot\Roshini%20Hinduja\Aviva%20Assessment_Roshini\com.Aviva.Assessment\TestResults\com.Aviva.Assessment_Default_2018-03-17T163052.log
+2018-03-17T16:31:55.3275315+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-17T16:33:06.9598886+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-17T16:33:06.9778922+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-17T16:33:06.9778922+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+2018-03-17T16:33:06.9788924+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-03-17T16:33:16.9878938+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-17T16:33:16.9908944+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+2018-03-17T16:33:50.2301039+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Aviva\Aviva%20Final\Resume\Assessment%20-%20Final\Third%20Lot\Roshini%20Hinduja\Aviva%20Assessment_Roshini\com.Aviva.Assessment\TestResults\com.Aviva.Assessment_Default_2018-03-17T163306.log
+2018-03-17T16:33:50.2301039+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-17T17:17:37.5260296+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-17T17:17:37.6150296+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-17T17:17:37.6160296+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+2018-03-17T17:17:37.6170296+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-03-17T17:17:47.6880296+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-17T17:17:47.6910296+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+2018-03-17T17:18:38.1815296+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Aviva\Aviva%20Final\Resume\Assessment%20-%20Final\Third%20Lot\Roshini%20Hinduja\Aviva%20Assessment_Roshini\com.Aviva.Assessment\TestResults\com.Aviva.Assessment_Default_2018-03-17T171737.log
+2018-03-17T17:18:38.1815296+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-17T17:26:33.5555296+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-17T17:26:33.5705296+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-17T17:26:33.5715296+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+2018-03-17T17:26:33.5725296+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-03-17T17:26:45.5935296+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-17T17:26:45.5955296+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+2018-03-17T17:27:26.2095296+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Aviva\Aviva%20Final\Resume\Assessment%20-%20Final\Third%20Lot\Roshini%20Hinduja\Aviva%20Assessment_Roshini\com.Aviva.Assessment\TestResults\com.Aviva.Assessment_Default_2018-03-17T172633.log
+2018-03-17T17:27:26.2195296+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-17T18:22:48.4055296+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-17T18:22:48.4145296+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-17T18:22:48.4155296+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+2018-03-17T18:22:48.4155296+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-03-17T18:22:57.4245296+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-17T18:22:57.4265296+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+2018-03-17T18:23:46.7035296+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Aviva\Aviva%20Final\Resume\Assessment%20-%20Final\Third%20Lot\Roshini%20Hinduja\Aviva%20Assessment_Roshini\com.Aviva.Assessment\TestResults\com.Aviva.Assessment_Default_2018-03-17T182248.log
+2018-03-17T18:23:46.7035296+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-17T18:25:19.1605296+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-17T18:25:19.1975296+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-17T18:25:19.1975296+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+2018-03-17T18:25:19.1985296+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-03-17T18:25:28.2075296+05:30;Thread#10;Info;Discovering target: Default
+2018-03-17T18:25:28.2095296+05:30;Thread#10;Info;Discovering tests from assembly: D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+Appdomain Disposed
+Test Suite Dump
+#0: com.Aviva.Assessment/Default - 
+#1: Default - 
+#2: com.Aviva.Assessment - 
+#3: Google search and printing data from the results - 
+#5: Search with invalid data and print error text - TestAssembly:com.Aviva.Assessment/Feature:Google+search+and+printing+data+from+the+results/Scenario:Search+with+invalid+data+and+print+error+text
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for com.Aviva.Assessment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\sg663051\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.7.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #5/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given I launch Google homepage on the web browser
+Thread#0:T:Assertion successful, user is on Google Homepage
+Thread#0:T:done: AvivaTestStepsDefinition.GivenILaunchGoogleHomepageOnTheWebBrowser() (9.5s)
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmp9B95.jpg ]SCREENSHOT
+Thread#0:B:When I enter keyword in the searchbox
+Thread#0:B:  --- table step argument ---
+Thread#0:B:  | keyword       |
+Thread#0:B:  | $#%@%!^@^@%#% |
+Thread#0:T:Entered text is $#%@%!^@^@%#%
+Thread#0:T:done: AvivaTestStepsDefinition.WhenIEnterKeywordInTheSearchbox(<table>) (0.3s)
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmp9E44.jpg ]SCREENSHOT
+Thread#0:B:And hit search button
+Thread#0:T:done: AvivaTestStepsDefinition.WhenHitSearchButton() (3.5s)
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmpAD91.jpg ]SCREENSHOT
+Thread#0:B:Then suitable error message should be displayed
+Thread#0:T:$#%@%!^@^@%#%
+Thread#0:T:Your search - $#%@%!^@^@%#% - did not match any documents.
+Thread#0:T:done: AvivaTestStepsDefinition.ThenSuitableErrorMessageShouldBeDisplayed() (0.1s)
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmpAF95.jpg ]SCREENSHOT
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 22.903 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1
+Succeeded: 1
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0

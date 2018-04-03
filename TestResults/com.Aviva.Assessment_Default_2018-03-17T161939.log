@@ -1,0 +1,128 @@
+﻿2018-03-17T16:19:29.2922407+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-17T16:19:39.3212407+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-17T16:19:39.3222407+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+2018-03-17T16:19:39.3232407+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-03-17T16:19:48.4492407+05:30;Thread#12;Info;Discovering target: Default
+2018-03-17T16:19:48.4502407+05:30;Thread#12;Info;Discovering tests from assembly: D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\com.Aviva.Assessment\bin\Debug\com.Aviva.Assessment.dll
+Appdomain Disposed
+Test Suite Dump
+#0: com.Aviva.Assessment/Default - 
+#1: Default - 
+#2: com.Aviva.Assessment - 
+#3: Google search and printing data from the results - 
+#4: Search with valid data and print result, Aviva - TestAssembly:com.Aviva.Assessment/Feature:Google+search+and+printing+data+from+the+results/Scenario:Search+with+valid+data+and+print+result%2c+Aviva
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for com.Aviva.Assessment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\sg663051\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.7.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given I launch Google homepage on the web browser
+Thread#0:T:Assertion successful, user is on Google Homepage
+Thread#0:T:done: AvivaTestStepsDefinition.GivenILaunchGoogleHomepageOnTheWebBrowser() (13.8s)
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmp9F04.jpg ]SCREENSHOT
+Thread#0:B:When I enter 'Aviva' in the searchbox
+Thread#0:T:Entered text is Aviva
+Thread#0:T:done: AvivaTestStepsDefinition.WhenIEnterInTheSearchbox("Aviva") (0.1s)
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmpA108.jpg ]SCREENSHOT
+Thread#0:B:And hit search button
+Thread#0:T:done: AvivaTestStepsDefinition.WhenHitSearchButton() (11.0s)
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmpCD66.jpg ]SCREENSHOT
+Thread#0:B:Then suitable results should be displayed
+Thread#0:T:Actual text is Aviva
+Thread#0:T:Aviva search results are displayed
+Thread#0:T:done: AvivaTestStepsDefinition.ThenSuitableResultsShouldBeDisplayed() (0.1s)
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmpCF5A.jpg ]SCREENSHOT
+Thread#0:B:And I should be able to display all links and print fifth link
+Thread#0:T:Results Obtained are:
+Thread#0:T:0
+Thread#0:T:error: Exception has been thrown by the target of an invocation.
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmpD11F.jpg ]SCREENSHOT
+Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 1
+Thread#0: Test #4/0 is finished on thread #0 as Failed within 34.8766 seconds
+Thread#0: Test #4/1 is started on thread #0
+Thread#0:B:Given I launch Google homepage on the web browser
+Thread#0:T:Assertion successful, user is on Google Homepage
+Thread#0:T:done: AvivaTestStepsDefinition.GivenILaunchGoogleHomepageOnTheWebBrowser() (18.1s)
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmp338B.jpg ]SCREENSHOT
+Thread#0:B:When I enter 'Aviva' in the searchbox
+Thread#0:T:Entered text is Aviva
+Thread#0:T:done: AvivaTestStepsDefinition.WhenIEnterInTheSearchbox("Aviva") (0.1s)
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmp358E.jpg ]SCREENSHOT
+Thread#0:B:And hit search button
+Thread#0:T:done: AvivaTestStepsDefinition.WhenHitSearchButton() (10.8s)
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmp6131.jpg ]SCREENSHOT
+Thread#0:B:Then suitable results should be displayed
+Thread#0:T:Actual text is Aviva
+Thread#0:T:Aviva search results are displayed
+Thread#0:T:done: AvivaTestStepsDefinition.ThenSuitableResultsShouldBeDisplayed() (0.1s)
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmp6316.jpg ]SCREENSHOT
+Thread#0:B:And I should be able to display all links and print fifth link
+Thread#0:T:Results Obtained are:
+Thread#0:T:0
+Thread#0:T:error: Exception has been thrown by the target of an invocation.
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmp64BC.jpg ]SCREENSHOT
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 2
+Thread#0: Test #4/1 is finished on thread #0 as Failed within 37.7046 seconds
+Thread#0: Test #4/2 is started on thread #0
+Thread#0:B:Given I launch Google homepage on the web browser
+Thread#0:T:Assertion successful, user is on Google Homepage
+Thread#0:T:done: AvivaTestStepsDefinition.GivenILaunchGoogleHomepageOnTheWebBrowser() (14.3s)
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmpB646.jpg ]SCREENSHOT
+Thread#0:B:When I enter 'Aviva' in the searchbox
+Thread#0:T:Entered text is Aviva
+Thread#0:T:done: AvivaTestStepsDefinition.WhenIEnterInTheSearchbox("Aviva") (0.1s)
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmpB84A.jpg ]SCREENSHOT
+Thread#0:B:And hit search button
+Thread#0:T:done: AvivaTestStepsDefinition.WhenHitSearchButton() (15.0s)
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmpF460.jpg ]SCREENSHOT
+Thread#0:B:Then suitable results should be displayed
+Thread#0:T:Actual text is Aviva
+Thread#0:T:Aviva search results are displayed
+Thread#0:T:done: AvivaTestStepsDefinition.ThenSuitableResultsShouldBeDisplayed() (0.1s)
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmpF664.jpg ]SCREENSHOT
+Thread#0:B:And I should be able to display all links and print fifth link
+Thread#0:T:Results Obtained are:
+Thread#0:T:0
+Thread#0:T:error: Exception has been thrown by the target of an invocation.
+Thread#0:T:SCREENSHOT[ file:///D:\Aviva\Aviva Final\Resume\Assessment - Final\Third Lot\Roshini Hinduja\Aviva Assessment_Roshini\com.Aviva.Assessment\TestResults\tmpF81A.jpg ]SCREENSHOT
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #4/2 is finished on thread #0 as Failed within 37.6834 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1 (test executions: 3)
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 1
